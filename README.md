@@ -1,8 +1,12 @@
 # 👋 ¡Hola! Soy Jonathan
 
-🎯 **Aspirante a Cloud Security Engineer / DevSecOps**  
-💻 Estudiante de Ingeniería en Informatica | Apasionado por la ciberseguridad y la nube  
-🚀 Actualmente construyendo mi camino hacia un roles relacionados con Cloud y la ciberseguridad. 
+[![En Aprendizaje](https://img.shields.io/badge/Estado-En%20aprendizaje-yellow?style=for-the-badge&logo=bookstack)](#)
+[![Objetivo](https://img.shields.io/badge/Objetivo-Cloud%20Security%20%2F%20DevSecOps-blue?style=for-the-badge&logo=cloud)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tuusuario)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tuemail@gmail.com)
+
+**Estudiante de Ingeniería en Informática**  
+Construyendo mi camino hacia un rol en **Cloud Security & DevSecOps**
 
 ---
 
