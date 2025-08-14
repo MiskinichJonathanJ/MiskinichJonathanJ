@@ -34,9 +34,9 @@ Construyendo mi camino hacia un rol en **Cloud Security & DevSecOps**
 
 ---
 
-## 📂 Proyectos en los que trabajo actualmente ([Repositorio](https://github.com/MiskinichJonathanJ/CreacionUsuarios))
+## 📂 Proyectos en los que trabajo actualmente 
 
-###  Creación y gestión automática de usuarios en Linux
+###  Creación y gestión automática de usuarios en Linux ([Repositorio](https://github.com/MiskinichJonathanJ/CreacionUsuarios))
 Script en Python para automatizar la creación de usuarios, asignación de grupos y registro en logs, pensado para administración en entornos Linux y flujos DevSecOps.  
 
 
