@@ -1,44 +1,35 @@
-# 👋 ¡Hola! Soy Jonathan
+# 👋 ¡Hola! Soy Jonathan Miskinich
 
-[![En Aprendizaje](https://img.shields.io/badge/Estado-En%20aprendizaje-yellow?style=for-the-badge&logo=bookstack)](#)
 [![Objetivo](https://img.shields.io/badge/Objetivo-Cloud%20Security%20%2F%20DevSecOps-blue?style=for-the-badge&logo=cloud)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tuusuario)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tuemail@gmail.com)
 
-**Estudiante de Ingeniería en Informática**  
-Construyendo mi camino hacia un rol en **Cloud Security & DevSecOps**
+### Ingeniería en Informática | Cloud Security | DevOps
+
+Especializado  en Infraestructura como código, Seguridad en la nube y automatización.
 
 ---
 
-## 📚 Mi Plan de Aprendizaje (Roadmap)
+## Mis Especialidades
 
-> Estoy en proceso de formación para especializarme en **seguridad en la nube** y **automatización segura de infraestructura**.
-> Aquí registro mi progreso para que cualquiera pueda seguir mi evolución.
-
-✅ **Mes 1** – Redes y Linux (Fundamentos)  
-⬜ **Mes 2** – Fundamentos de AWS & Azure  
-⬜ **Mes 3** – IaC con Terraform + Docker  
-⬜ **Mes 4** – Seguridad en entornos Cloud  
-⬜ **Mes 5** – DevSecOps básico  
-⬜ **Mes 6** – Proyecto Integrador + Branding Técnico  
-⬜ **Mes 7-9** – Aplicaciones a puestos y especialización
+- Cloud: AWS (VPC, EC2, RDS, IAM, Load Balancer, Security Groups)
+- Infraestructura como código: Terraform
+- Contenedores & Orquestación: Docker, Kubernetes
+- Seguridad: IAM, escaneo de contenedores, DevSecOps
+- CI/CD: Diseño de pipelines, integración y despliegue continuo
 
 ---
 
-## 🛠️ Tecnologías y Herramientas (En progreso)
-
-- **Cloud:** AWS ☁️ | Azure ☁️ *(en aprendizaje)*
-- **Infraestructura como código:** Terraform, Ansible *(pronto)*
-- **Contenedores:** Docker, Kubernetes *(pronto)*
-- **Seguridad:** IAM, Escaneo de contenedores, DevSecOps pipelines *(pronto)*
-
----
-
-## 📂 Proyectos en los que trabajo actualmente 
+## 📂 Proyectos Destacados
 
 ###  Creación y gestión automática de usuarios en Linux ([Repositorio](https://github.com/MiskinichJonathanJ/CreacionUsuarios))
 Script en Python para automatizar la creación de usuarios, asignación de grupos y registro en logs, pensado para administración en entornos Linux y flujos DevSecOps.  
 
+### Infraestructura cliente-servidor en AWS con Terraform ([Repositorio](https://github.com/MiskinichJonathanJ/aws-terraform))
+Infraestructura como código para aprovisionar un entorno en AWS con VPC, EC2, RDS y Load Balancer. Diseñado bajo buenas prácticas de IaC y pensado como ejemplo realista de un modelo cliente-servidor.
+
+### API REST para gestión de restaurante ([Repositorio](https://github.com/MiskinichJonathanJ/MenuDigitalAPI))
+API en .NET + C# con arquitectura hexagonal y CQRS, conectada a PostgreSQL. Incluye gestión de categorías, platos y pedidos, siguiendo principios de Domain Driven Design (DDD) y buenas prácticas de desarrollo backend.
 
 ---
 
@@ -47,9 +38,4 @@ Script en Python para automatizar la creación de usuarios, asignación de grupo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jonathan-miskinich-61a1ab37a/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miskinich.jobs.jonathan@gmail.com)
 
----
-
-### 📌 Nota
-Este perfil está en construcción mientras avanzo en mi formación.  
-¡Pronto compartiré más proyectos, aprendizajes y certificaciones! 🚀
 
