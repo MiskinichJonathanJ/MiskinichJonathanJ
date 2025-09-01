@@ -22,11 +22,11 @@ Especializado  en Infraestructura como código, Seguridad en la nube y automatiz
 
 ## 📂 Proyectos Destacados
 
-###  Creación y gestión automática de usuarios en Linux ([Repositorio](https://github.com/MiskinichJonathanJ/CreacionUsuarios))
-Script en Python para automatizar la creación de usuarios, asignación de grupos y registro en logs, pensado para administración en entornos Linux y flujos DevSecOps.  
-
 ### Infraestructura cliente-servidor en AWS con Terraform ([Repositorio](https://github.com/MiskinichJonathanJ/aws-terraform))
 Infraestructura como código para aprovisionar un entorno en AWS con VPC, EC2, RDS y Load Balancer. Diseñado bajo buenas prácticas de IaC y pensado como ejemplo realista de un modelo cliente-servidor.
+
+###  Creación y gestión automática de usuarios en Linux ([Repositorio](https://github.com/MiskinichJonathanJ/CreacionUsuarios))
+Script en Python para automatizar la creación de usuarios, asignación de grupos y registro en logs, pensado para administración en entornos Linux y flujos DevSecOps.  
 
 ### API REST para gestión de restaurante ([Repositorio](https://github.com/MiskinichJonathanJ/MenuDigitalAPI))
 API en .NET + C# con arquitectura hexagonal y CQRS, conectada a PostgreSQL. Incluye gestión de categorías, platos y pedidos, siguiendo principios de Domain Driven Design (DDD) y buenas prácticas de desarrollo backend.
